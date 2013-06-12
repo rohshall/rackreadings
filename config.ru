@@ -1,0 +1,2 @@
+require './readings'
+run $mapper
